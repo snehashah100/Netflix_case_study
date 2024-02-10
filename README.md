@@ -1,1 +1,1 @@
-! [Netflix logo] [C:\Users\Sneha Shah\Downloads\netflix loge.webp]
+! [Netflix logo] (C:\Users\Sneha Shah\Downloads\netflix loge.webp)
